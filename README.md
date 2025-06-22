@@ -17,6 +17,8 @@
 # 코드 설명
 가장 먼저, import문을 활용하여 카드를 무작위하게 분배해 줄 random과 카드 개수를 카운팅 해줄 Counter를 불러옵니다.
 
+![스크린샷 2025-06-22 오후 8 05 20](https://github.com/user-attachments/assets/1cb92c92-8cf4-4fe1-9cc0-9cc391c1991c)
+
 **1. 카드 덱 생성 및 카드 조합 등록 함수 설명**
 
 ![스크린샷 2025-06-22 오전 11 34 08](https://github.com/user-attachments/assets/7c36e2fd-e75c-4ab4-9806-16764c14e449)
